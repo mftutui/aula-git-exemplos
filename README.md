@@ -1,6 +1,6 @@
 # Aula de git
 
-## Aluno 01
+## Paulo
 
 ### Como fazer alias de comandos no git
 
