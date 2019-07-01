@@ -1,5 +1,11 @@
 # Aula de git
 
+- [X] Fluxo básico
+- [X] Branches
+- [ ] fork
+- [ ] cherry-pick
+- [ ] issues
+
 ## Aluno 02
 
 Como configurar usename e email no git
